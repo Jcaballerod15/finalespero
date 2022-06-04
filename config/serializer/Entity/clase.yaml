@@ -1,0 +1,12 @@
+App\Entity\Clase:
+    attributes:
+        id:
+            groups: ['clase']
+        titulo:
+            groups: ['clase']
+        descripclase:
+            groups: ['clase']
+        idprofe:
+            groups: ['clase']
+        claveprivada:
+            groups: ['clase']

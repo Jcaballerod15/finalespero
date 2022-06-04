@@ -1,0 +1,8 @@
+App\Entity\Sala:
+    attributes:
+        id:
+            groups: ['sala']
+        idpersona1:
+            groups: ['sala']
+        idpersona2:
+            groups: ['sala']

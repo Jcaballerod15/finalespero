@@ -1,0 +1,14 @@
+App\Entity\Contenido:
+    attributes:
+        id:
+            groups: ['contenido']
+        # idclase:
+        #     groups: ['contenido']
+        fechapublica:
+            groups: ['contenido']
+        texto:
+            groups: ['contenido']
+        urlimagen:
+            groups: ['contenido']
+        video:
+            groups: ['contenido']

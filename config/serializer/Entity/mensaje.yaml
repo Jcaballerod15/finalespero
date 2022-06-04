@@ -1,0 +1,14 @@
+App\Entity\Mensaje:
+    attributes:
+        id:
+            groups: ['mensaje']
+        idsala:
+            groups: ['mensaje']
+        idemisor:
+            groups: ['mensaje']
+        texto:
+            groups: ['mensaje']
+        fechaenvio:
+            groups: ['mensaje']
+        leido:
+            groups: ['mensaje']
